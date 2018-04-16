@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SQLieteDatabaseExample</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="note">Note</string>
+    <string name="alert_cancel">Cancel</string>
+    <string name="alert_title_add">Add note</string>
+
+    <!--====================================================================-->
+    <!-- Image Source Dialog -->
+
+    <string name="title_dialog_image_source">Select image</string>
+
+    <string-array name="image_sources">
+        <item>Gallery</item>
+        <item>Camera</item>
+    </string-array>
+
+    <string name="label_pictures_take_photo">Take photo</string>
+    <string name="label_pictures_choose_from_gallery">Select from gallery</string>
+</resources>
